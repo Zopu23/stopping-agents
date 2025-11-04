@@ -20,8 +20,8 @@ and our paper on [learning when to quit in sales conversations](https://stopping
 
 ## Citation
 
-> Manzoor, Emaad, and Ascarza, Eva and Netzer, Oded. "Learning When to Quit in Sales Conversations." arXiv preprint arXiv:????.????? (2025).
-
+> Manzoor, Emaad, and Ascarza, Eva and Netzer, Oded. *Learning When to Quit in Sales Conversations.* arXiv preprint [arXiv:2511.01181](https://arxiv.org/abs/2511.01181) (2025).
+ 
 ## Contact
 
    * emaadmanzoor@cornell.edu
